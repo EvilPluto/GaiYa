@@ -1,0 +1,195 @@
+body{
+            	font-size: medium;
+            	font-family: Verdana, Helvetica, Arial, sans-serif;
+            	background: black url(images/background.jpg) 
+            	                  top center repeat-y;
+            }
+
+            fieldset{
+            	border: 5px dotted gray;
+            	line-height: 1.8em;
+            }
+
+            legend{
+            	font-size: 200%;
+            	font-family: fantasy;
+            	font-weight: bold;
+            	color: #aaaaaa;
+            }
+            a:link{
+              color: #888888;
+              text-decoration: none;
+            }
+
+            a:hover{
+            	color: #ffffff;
+            	text-decoration: underline;
+            }
+
+            a:visited{
+              color: #0000c6;
+              text-decoration: none;
+            }
+
+            #all{
+            	background-color: black;
+            	width: 1200px;
+            	margin-right: auto;
+            	margin-left: auto;
+            	padding: 0;
+            	border: 15px groove gray;
+            }
+
+            #header{
+            	background-color: #333333;
+            	width: 800px;
+            	height: 120px;
+            	margin-left: auto;
+            	margin-right: auto;
+            	position: relative;
+            }
+
+            #footer{
+            	background-color: #888888;
+            	font-family: fantasy;
+            	font-weight: bold;
+            	text-align: center;
+            	width: 1200px;
+            	clear: both;
+            }
+
+            #head{margin: 10px 300px 10px 0px;}
+
+            #word{
+            	margin: 0px;
+            	float: right;
+            }
+
+            #menu{
+            	font-size: 150%;
+	         	height: 30px;
+	         	width: 800px;
+	         	background-color: #333333;
+	         	margin-left: auto;
+            	margin-right: auto;
+            	margin-top: 5px;
+	         	padding: 0;
+	           	position: relative;
+		    }
+
+		    #menu li{
+		    	margin:0;
+	         	padding:0;
+	          	list-style:none;
+	         	position:absolute;
+		    }
+
+		    #main{
+		    	width: 650px;
+		    	margin: 0 275px	0 275px;
+		    	background: url(images/background1.jpg)
+		    	            no-repeat;
+		    	position: absolute;	    
+		    }
+
+		    #main #find{text-align: center;}	
+
+		    #left{
+		    	width: 250px;
+		    	margin: 5px;
+		    	padding: 0 0 0 10px;
+		    	font-family: cursive;
+		    	color: #666666;
+		    	float: left;
+		    }
+
+		    #right{
+		    	width: 250px;
+		    	margin: 5px;
+		    	padding: 5px 10px 0 935px;
+		    	font-family: cursive;
+		    	color: #666666;
+		    }
+
+		    #ymxk,#imh{
+		    	color: #666666;
+		    	text-align: center;
+		    	font-size: 120%;
+		    }
+
+		    #ym{
+		    	float: right;
+		    	margin: 20px 5px 0 0;
+		    }
+
+		    #imanhua{
+		    	float: left;
+		    	margin: 15px 5px 0 0;
+		    }
+
+
+		    h3{
+		    	color: red;
+		    	text-align: center;
+		    }
+
+		    h5{
+		    	color: #666666;
+		    	text-align: center;
+		    	font-size: 120%;
+		    }
+
+		    h1{
+		    	color: white;
+		    	text-align: center;
+		    }
+
+		    strong{color: red;}
+
+		    #ul{
+		    	color: gray;
+		    	font-size: 120%;
+	         	height: 25px;
+	         	width: 600px;
+	         	background-color: #333333;
+	         	margin-left: auto;
+            	margin-right: auto;
+            	margin-top: 5px;
+	         	padding: 0;
+	           	position: relative;
+		    }
+
+		    #ul li{
+		    	margin-top:2px;
+	         	padding:0px;
+	         	position:absolute;
+	         	list-style-image: url(images/doc.png);
+		    }
+
+		    #comment{
+		    	text-align: center;
+		    	color: gray;
+		    	font-size: 120%;
+		    }
+
+		    #C{	    	
+		    	background: url(images/comment.jpg) 
+		    	            top center repeat-y;
+		    }
+
+		    #main #over{
+		    	font-family: cursive;
+		    	color: gray;
+		    	background-color: black;
+		    }
+
+		    #a{left: 10px; width: 153px;}
+		    #b{left: 163px; width: 123px;}
+		    #c{left: 286px; width: 123px;}
+		    #d{left: 410px; width: 133px;}
+		    #e{left: 543px; width: 133px;}
+		    #f{left: 677px; width: 133px;}
+		    #h{left: 50px; width: 100px;}
+		    #i{left: 200px;width: 100px;}
+		    #j{left: 340px;width: 100px;}
+		    #k{left: 490px;widows: 100px;}
